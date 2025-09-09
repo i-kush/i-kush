@@ -33,12 +33,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Languages Stats
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=i-kush&show_icons=true&theme=tokyonight" height="180em" />
-    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-kush&layout=compact&theme=tokyonight" height="180em" />
     </td>
