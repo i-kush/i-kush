@@ -1,6 +1,6 @@
 ## I'm Ihor 👋
 
-🚀 Technical Architect • Tech Lead • Team Lead • Senior Java Software Engineer • Mentor
+🚀 Tech Lead • Team Lead • Senior Java Software Engineer • Mentor
 
 ---
 
