@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Stack  
 
-![Java](https://img.shields.io/badge/Java-8--24-red?logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-7--25-red?logo=openjdk&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white) 
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC2927?logo=oracle&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
