@@ -30,14 +30,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) 
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?logo=gitlab&logoColor=white) 
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?logo=bitbucket&logoColor=white) 
-
----
-
-### 📊 GitHub Languages Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-kush&layout=compact&theme=tokyonight" height="180em" />
-    </td>
-  </tr>
-</table>
